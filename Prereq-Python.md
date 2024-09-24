@@ -1,6 +1,6 @@
 # Python Programming Learning Path (Beginner to OOP)
 
-## If you feel unfamiliar with any part of this list, please start a AI-assited-tutoring 
+**If you feel unfamiliar with any topic in this list**, please start a AI-assited-tutoring 
 [here](https://chatgpt.com/g/g-fJop2mlYh-python-tutor) and 
 ask AI to teach you on the selected topic. For example, you can type "teach me list comprehension."
 
